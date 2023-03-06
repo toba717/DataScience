@@ -1,6 +1,6 @@
 # DataScience
 
-UCLA CS M148 Winter 2023 (Final Overall Course Grade: A+)
+UCLA CS M148 Winter 2023 (Final Overall Course Grade: )
 
 Course Title: Data Science
 
